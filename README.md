@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Sentry has introduced [official support](https://github.com/getsentry/self-hosted/pull/1538) for ARM64 - all repos in this organization are archived and kept for archival purposes only.
+
 # Sentry-on-ARM64
 
 > **This build is not intended to run in production and no support is provided.** It may preform worse than official x86 version and may fail in any time. However all of the features that were tested personally are functional and working.
