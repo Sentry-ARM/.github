@@ -1,4 +1,12 @@
-# [Sentry](https://github.com/getsentry) port for aarch64 (64-bit Arm) architecture
+# Sentry supports arm64 officially since 25.6.0!
+
+This fork is no longer maintained since the patches for arm64 support were merged in upstream, use [the official self-hosted repo](https://github.com/getsentry/self-hosted).
+
+In case of any issues you can [post them here](https://github.com/getsentry/self-hosted/issues/1585).
+
+Below is the original README before deprecation.
+
+# [Sentry](https://github.com/getsentry) port for arm64 architecture
 
 > **This build is not intended to be run in production and no support is provided.** It may perform worse than the official version and may fail at any time.
 
